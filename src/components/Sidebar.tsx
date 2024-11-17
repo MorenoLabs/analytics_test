@@ -12,6 +12,8 @@ import {
   LogOut,
   BarChart4,
   UserCog,
+  Palette,
+  Share2,
 } from 'lucide-react';
 
 const navItems = [
@@ -21,6 +23,8 @@ const navItems = [
   { icon: GitBranch, label: 'Resource Allocation', to: '/resource-allocation' },
   { icon: Network, label: 'Metric Mapping', to: '/metric-mapping' },
   { icon: BarChart2, label: 'Predictions', to: '/predictions' },
+  { icon: Share2, label: 'Technical Diagram', to: '/technical-diagram' },
+  { icon: Palette, label: 'Style Guide', to: '/style-guide' },
 ];
 
 const bottomNavItems = [
