@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased text-gray-900 dark:text-gray-100;
+  }
+}
+
+@layer components {
+  .grid-cols-25 {
+    grid-template-columns: auto repeat(24, minmax(0, 1fr));
+  }
+}
