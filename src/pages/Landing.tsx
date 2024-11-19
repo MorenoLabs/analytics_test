@@ -61,8 +61,8 @@ export const Landing = () => {
               Analytics
             </h1>
             <p className="text-xl text-gray-400 mb-8 max-w-3xl mx-auto">
-              Harness the power of AI-driven insights to optimize your customer service performance,
-              predict trends, and make data-driven decisions in real-time.
+              Harness the power of MUTR-driven insights to optimize your customer service performance,
+              predict trends, and make data-driven decisions in real-time. Who needs a BI sit on the beach and let MUTR do the work.
             </p>
             <div className="flex justify-center space-x-4">
               <Link
