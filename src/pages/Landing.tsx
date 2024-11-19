@@ -24,7 +24,7 @@ export const Landing = () => {
           <div className="flex items-center">
             <BarChart4 className="h-8 w-8 text-indigo-500" />
             <span className="ml-2 text-2xl font-bold text-white">
-              Analytics Hub
+              MUTR KNOWS
             </span>
           </div>
           <div className="flex items-center space-x-4">
