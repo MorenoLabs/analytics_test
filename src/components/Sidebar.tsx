@@ -50,7 +50,7 @@ export const Sidebar = () => {
       <div className="p-4 border-b border-gray-200 dark:border-gray-700">
         <div className="flex items-center space-x-3">
           <BarChart4 className="h-8 w-8 text-indigo-500" />
-          <h2 className="text-xl font-bold text-gray-800 dark:text-white">Analytics Hub</h2>
+          <h2 className="text-xl font-bold text-gray-800 dark:text-white">MUTR KNOWS</h2>
         </div>
       </div>
 
